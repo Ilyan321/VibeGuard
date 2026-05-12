@@ -68,7 +68,7 @@ README.md                        # Project documentation (this file)
 
 ## 🚀 Try the Live Demo
 
-Test VibeGuard instantly on [Hugging Face Spaces](https://huggingface.co/spaces/Ilyan321/vibeguard).
+Test VibeGuard instantly on [Hugging Face Spaces](https://huggingface.co/spaces/Ilyankhan69/vibeguard).
 
 ---
 
